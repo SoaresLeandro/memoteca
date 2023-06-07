@@ -1,0 +1,28 @@
+{
+  "pensamentos":[
+    {
+      "id": 1,
+      "conteudo": "Primeiro pensamento",
+      "autoria": "Autor 1",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Segundo pensamento",
+      "autoria": "Autor 2",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI",
+      "autoria": "Autor 3",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Quarto pensamento",
+      "autoria": "Autor 4",
+      "modelo": "modelo2"
+    }
+  ]
+}
