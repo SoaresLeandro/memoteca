@@ -1,8 +1,8 @@
 {
-  "pensamentos":[
+  "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Primeiro pensamento",
+      "conteudo": "Primeiro pensamento!",
       "autoria": "Autor 1",
       "modelo": "modelo1"
     },
@@ -23,6 +23,12 @@
       "conteudo": "Quarto pensamento",
       "autoria": "Autor 4",
       "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Não esqueça do \";\"!",
+      "autoria": "Eu mesmo",
+      "modelo": "modelo3",
+      "id": 5
     }
   ]
 }
